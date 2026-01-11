@@ -1,0 +1,14 @@
+
+
+[project]
+name = "neuroadapt"
+version = "0.1.0"
+description = "Brain-inspired adaptive neural network framework"
+authors = [{ name="kumaranravindran20-dev" }]
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = []
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
