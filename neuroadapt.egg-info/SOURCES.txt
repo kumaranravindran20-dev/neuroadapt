@@ -9,4 +9,7 @@ neuroadapt.egg-info/PKG-INFO
 neuroadapt.egg-info/SOURCES.txt
 neuroadapt.egg-info/dependency_links.txt
 neuroadapt.egg-info/top_level.txt
+neuroadapt/engines/deep_online.py
+neuroadapt/models/adaptive_lstm.py
+neuroadapt/preprocessing/scaler.py
 tests/test_model.py
