@@ -2,7 +2,7 @@
 
 [project]
 name = "neuroadapt"
-version = "0.1.0"
+version = "0.2.0"
 description = "Brain-inspired adaptive neural network framework"
 authors = [{ name="kumaranravindran20-dev" }]
 readme = "README.md"
